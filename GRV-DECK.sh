@@ -48,7 +48,7 @@ nsnake_menu() {
                 read -p "Press Enter to return..."
                 ;;
             2)
-                break  # Back to Fun Tools
+                break  
                 ;;
             3)
                 echo "Exiting GRV Deck..."
@@ -218,7 +218,7 @@ gtypist_menu() {
                 read -p "Press Enter to return..."
                 ;;
             2)
-                break  # Back to Productive Tools
+                break  
                 ;;
             3)
                 echo "Exiting GRV Deck..."
